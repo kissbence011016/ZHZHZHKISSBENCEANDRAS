@@ -1,0 +1,8 @@
+﻿streamlit
+pandas
+geopandas
+leafmap
+scipy
+numpy
+matplotlib
+folium
